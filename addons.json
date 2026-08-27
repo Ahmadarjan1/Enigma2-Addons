@@ -133,20 +133,6 @@
           "description": "RevCam official client plugin",
           "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/cam/enigma2-plugin-extensions-revcam2_2.1_all.ipk",
           "type": "ipk"
-        },
-        {
-          "name": "44",
-          "version": "1.0",
-          "description": "44",
-          "url": "https://github.com/biko-73/Ncam_EMU",
-          "type": "ipk"
-        },
-        {
-          "name": "5555",
-          "version": "1.0",
-          "description": "5555",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
         }
       ]
     },
