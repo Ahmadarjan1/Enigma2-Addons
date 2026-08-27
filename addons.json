@@ -38,7 +38,15 @@
       "id": "media",
       "name": "Media",
       "icon": "media.png",
-      "addons": []
+      "addons": [
+        {
+          "name": "enigma2-plugin-extensions-xstreamity-abstract-skin.deb",
+          "version": "v2",
+          "description": "xstreamity",
+          "url": "https://github.com/biko-73/xstreamity/blob/eabb1995a621e2fb137f8616f289202eef115ec5/enigma2-plugin-extensions-xstreamity-abstract-skin.deb",
+          "type": "deb"
+        }
+      ]
     },
     {
       "id": "iptv",
