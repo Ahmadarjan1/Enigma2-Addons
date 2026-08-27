@@ -140,6 +140,13 @@
           "description": "55555",
           "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
           "type": "ipk"
+        },
+        {
+          "name": "44444",
+          "version": "1.0",
+          "description": "44444",
+          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipkhttps://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
+          "type": "ipk"
         }
       ]
     },
