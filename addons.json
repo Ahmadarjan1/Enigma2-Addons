@@ -14,513 +14,128 @@
       "id": "channel",
       "name": "Channel List",
       "icon": "channel.png",
-      "addons": [
-        {
-          "name": "Nilesat & Hotbird Channels 2026",
-          "version": "2026.08",
-          "description": "Updated Channel Bouquet by MR HEX",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/channels/channels_nilesat_hotbird.tar.gz",
-          "type": "tar.gz"
-        },
-        {
-          "name": "Motor Full Satellite Channels (75E-30W)",
-          "version": "2026.08",
-          "description": "Comprehensive Motor Bouquet with Radio & 4K",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/channels/channels_motor_full.tar.gz",
-          "type": "tar.gz"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "cam",
       "name": "CAM Softcams & Emulators",
       "icon": "cam.png",
-      "addons": [
-        {
-          "name": "Ncam EMU (Auto-Installer All Images)",
-          "version": "15.8",
-          "description": "Ncam Softcam Auto-Installer by Fairbird & Biko for all Enigma2 images & architectures",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installer.sh",
-          "type": "sh"
-        },
-        {
-          "name": "Ncam EMU IPK (OE2.0 All Images)",
-          "version": "15.8",
-          "description": "Ncam EMU Official IPK Package for OpenATV, PurE2, OpenPLi, Egami, OpenSPA, BlackHole",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-ncam_V15.8-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Ncam EMU DEB (DreamOS / Dreambox)",
-          "version": "15.8",
-          "description": "Ncam EMU Official DEB Package for Dreambox ONE, TWO, DM900, DM920 (DreamOS)",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-ncam-osdreambox_V15.8-r0.deb",
-          "type": "deb"
-        },
-        {
-          "name": "GosatPlus Ncam EMU (Installer)",
-          "version": "14.1",
-          "description": "GosatPlus Server Ncam EMU Auto-Installer script by Biko",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installerg.sh",
-          "type": "sh"
-        },
-        {
-          "name": "GosatPlus Ncam EMU (IPK Package)",
-          "version": "14.1",
-          "description": "GosatPlus Server Ncam EMU IPK Package for all Enigma2 images",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-gosatplus-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "PowerCam Ncam EMU (Installer)",
-          "version": "14.1",
-          "description": "PowerCam Server Ncam EMU Auto-Installer script by Biko",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installerp.sh",
-          "type": "sh"
-        },
-        {
-          "name": "PowerCam Ncam EMU (IPK Package)",
-          "version": "14.1",
-          "description": "PowerCam Server Ncam EMU IPK Package for all Enigma2 images",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-powercam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "SupCam Ncam EMU (Installer)",
-          "version": "14.1",
-          "description": "SupCam Server Ncam EMU Auto-Installer script by Biko",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installers.sh",
-          "type": "sh"
-        },
-        {
-          "name": "SupCam Ncam EMU (IPK Package)",
-          "version": "14.1",
-          "description": "SupCam Server Ncam EMU IPK Package for all Enigma2 images",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "UltraCam Ncam EMU (Installer)",
-          "version": "14.1",
-          "description": "UltraCam Server Ncam EMU Auto-Installer script by Biko",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installeru.sh",
-          "type": "sh"
-        },
-        {
-          "name": "UltraCam Ncam EMU (IPK Package)",
-          "version": "14.1",
-          "description": "UltraCam Server Ncam EMU IPK Package for all Enigma2 images",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-ultracam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "OSCam EMU Modern",
-          "version": "11860",
-          "description": "Latest OSCam with ICam & Ipv6 support",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/cam/enigma2-plugin-softcams-oscam-emu_11860_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "CCcam Softcam (All Images)",
-          "version": "2.3.9-r1",
-          "description": "Classic CCcam softcam with config installer",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/cam/enigma2-plugin-softcams-cccam-all-images_2.3.9-r1_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "RevCam V2",
-          "version": "2.1",
-          "description": "RevCam official client plugin",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/cam/enigma2-plugin-extensions-revcam2_2.1_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "55555",
-          "version": "1.0",
-          "description": "55555",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "44444",
-          "version": "1.0",
-          "description": "44444",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipkhttps://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "3333",
-          "version": "1.0",
-          "description": "3333",
-          "url": "https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/enigma2-plugin-softcams-supcam-ncam_14.1-r0_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "keys",
       "name": "Keys",
       "icon": "keys.png",
-      "addons": [
-        {
-          "name": "SoftCam Key Auto-Updater",
-          "version": "2026.08",
-          "description": "Updated SoftCam.Key with latest Tandberg, PowerVU, Biss",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/keys/SoftCam_Key.tar.gz",
-          "type": "tar.gz"
-        },
-        {
-          "name": "KeyAdder Plugin",
-          "version": "5.6",
-          "description": "Add Biss and Constant CW keys via remote",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/keys/enigma2-plugin-extensions-keyadder_5.6_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "epg",
       "name": "EPG",
       "icon": "epg.png",
-      "addons": [
-        {
-          "name": "EpgImporter with Custom Sources",
-          "version": "1.4",
-          "description": "Electronic Program Guide importer for Nilesat/OSN/BeIN",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/epg/enigma2-plugin-extensions-epgimporter_1.4_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Ziko EPG Grabber",
-          "version": "3.1",
-          "description": "Arabic & European channels EPG grabber",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/epg/enigma2-plugin-extensions-ziko-epg_3.1_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "media",
       "name": "Media",
       "icon": "media.png",
-      "addons": [
-        {
-          "name": "Enhanced Movie Center (EMC)",
-          "version": "4.1.2",
-          "description": "Full featured media player & movie browser",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/media/enigma2-plugin-extensions-enhancedmoviecenter_4.1.2_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "SubSupport & Dsayeh Subtitles",
-          "version": "1.7.0",
-          "description": "Online Arabic subtitle downloader & player",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/media/enigma2-plugin-extensions-subssupport_1.7.0_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "iptv",
       "name": "IPTV",
       "icon": "iptv.png",
-      "addons": [
-        {
-          "name": "XStreamity IPTV Player",
-          "version": "4.62",
-          "description": "Xtream Codes and M3U multi-playlist player by KiddaC",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/iptv/enigma2-plugin-extensions-xstreamity_4.62_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Jedi Maker Xtream (JMX)",
-          "version": "6.39",
-          "description": "Convert IPTV playlists into Enigma2 bouquets",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/iptv/enigma2-plugin-extensions-jedimakerxtream_6.39_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "IPTV Smarters Player",
-          "version": "2.4",
-          "description": "IPTV player with Live, VOD, and Series categorization",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/iptv/enigma2-plugin-extensions-iptvsmarters_2.4_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "quran",
       "name": "Quran",
       "icon": "quran.png",
-      "addons": [
-        {
-          "name": "Quran Audio & Radio Streamer",
-          "version": "2.0",
-          "description": "Listen to 150+ Reciters and live Islamic Radios",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/quran/enigma2-plugin-extensions-quran_2.0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Prayer Times & Athkar",
-          "version": "3.5",
-          "description": "Prayer times with automatic Athan alarm on TV",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/quran/enigma2-plugin-extensions-prayertimes_3.5_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "freeserver",
       "name": "Free Server",
       "icon": "freeserver.png",
-      "addons": [
-        {
-          "name": "FreeServer CCcam/Ncam Grabber",
-          "version": "8.3.4",
-          "description": "Daily free servers generator by Mino60",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/freeserver/enigma2-plugin-extensions-freeserver_8.3.4_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "music",
       "name": "Music",
       "icon": "music.png",
-      "addons": [
-        {
-          "name": "IPaudio Pro (Arabic Commentary)",
-          "version": "1.4",
-          "description": "Live BeIN Arabic audio sync with timeshift by Ziko",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/music/enigma2-plugin-extensions-ipaudiopro_1.4_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Shoutcast Radio",
-          "version": "1.2",
-          "description": "Worldwide internet radio streams",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/music/enigma2-plugin-extensions-shoutcast_1.2_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "tools",
       "name": "Tools",
       "icon": "tools.png",
-      "addons": [
-        {
-          "name": "Quick Signal & dB Finder",
-          "version": "2.0",
-          "description": "Large High-Tech Signal Quality, Strength & dB Meter",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/tools/enigma2-plugin-extensions-quicksignal_2.0_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "AJPan Tools Panel",
-          "version": "9.4",
-          "description": "Multipurpose Swiss Army Knife for Enigma2 by biko & tarek",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/tools/enigma2-plugin-extensions-ajpan_9.4_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "FootOnSat Match Schedule",
-          "version": "2.1",
-          "description": "Daily football matches broadcast schedule on satellites",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/tools/enigma2-plugin-extensions-footonsat_2.1_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "caminfo",
       "name": "CAM INFO",
       "icon": "caminfo.png",
-      "addons": [
-        {
-          "name": "CCcam Info & ECM Diagnostics",
-          "version": "1.3c",
-          "description": "Live CCcam status, ECM times, and client connection stats",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/caminfo/enigma2-plugin-extensions-cccaminfo_1.3c_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "OSCam Status Web Client",
-          "version": "0.45",
-          "description": "Monitor OSCam server and readers directly on TV",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/caminfo/enigma2-plugin-extensions-oscamstatus_0.45_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "other",
       "name": "Other",
       "icon": "other.png",
-      "addons": [
-        {
-          "name": "Weather Plugin (MSN Forecast)",
-          "version": "1.1",
-          "description": "Multi-city live weather forecasts & radar",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/other/enigma2-plugin-extensions-weather_1.1_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Vavoo Live Streamer",
-          "version": "2.3",
-          "description": "Free Live TV Streams & Channels",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/other/enigma2-plugin-extensions-vavoo_2.3_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "sport",
       "name": "Sport",
       "icon": "sport.png",
-      "addons": [
-        {
-          "name": "Kooora Matches Calendar",
-          "version": "3.0",
-          "description": "Arab & International Football Leagues scores & schedules",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/sport/enigma2-plugin-extensions-kooora_3.0_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "panels",
       "name": "Panels",
       "icon": "panels.png",
-      "addons": [
-        {
-          "name": "Levi45 Multi-Tool Panel",
-          "version": "9.1",
-          "description": "Skins, Picons, and Addons installer panel",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/panels/enigma2-plugin-extensions-levi45_9.1_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "backup",
       "name": "BackUp",
       "icon": "backup.png",
-      "addons": [
-        {
-          "name": "Full Image Backup Suite",
-          "version": "7.0",
-          "description": "Create full flashable image backup to USB/HDD",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/backup/enigma2-plugin-extensions-backupsuite_7.0_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "multiboot",
       "name": "Multiboot",
       "icon": "multiboot.png",
-      "addons": [
-        {
-          "name": "OpenMultiboot Selector",
-          "version": "1.3",
-          "description": "Run multiple images from USB drive on SF8008",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/multiboot/enigma2-plugin-extensions-openmultiboot_1.3_all.ipk",
-          "type": "ipk"
-        },
-        {
-          "name": "Neoboot Manager",
-          "version": "9.65",
-          "description": "Advanced multi-image bootloader by gutemine",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/multiboot/enigma2-plugin-extensions-neoboot_9.65_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "dependencies",
       "name": "Dependencies",
       "icon": "dependencies.png",
-      "addons": [
-        {
-          "name": "Python3 Essentials & Crypto Pack",
-          "version": "3.14",
-          "description": "Requests, BeautifulSoup4, Cryptography, Urllib3 for Py3",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/dependencies/python3-dependencies-pack.tar.gz",
-          "type": "tar.gz"
-        },
-        {
-          "name": "FFmpeg & GStreamer Plugins Pack",
-          "version": "1.22",
-          "description": "Full codecs and media streaming decoders",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/dependencies/ffmpeg-codecs-pack.tar.gz",
-          "type": "tar.gz"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "bootlogo",
       "name": "Bootlogo spiners",
       "icon": "bootlogo.png",
-      "addons": [
-        {
-          "name": "Neon 4K Bootlogo & Spinner Collection",
-          "version": "1.0",
-          "description": "Modern boot backgrounds and glowing animated loading spinners",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/bootlogo/bootlogo-neon-4k.tar.gz",
-          "type": "tar.gz"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "stalker",
       "name": "Stalkerportal",
       "icon": "stalker.png",
-      "addons": [
-        {
-          "name": "Stalker Middleware Client",
-          "version": "1.5",
-          "description": "Connect to MAG / Ministra Stalker portals via MAC address",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/stalker/enigma2-plugin-extensions-stalker_1.5_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "novaler",
       "name": "Novaler",
       "icon": "novaler.png",
-      "addons": [
-        {
-          "name": "Novaler TV Box Tools",
-          "version": "2.2",
-          "description": "Dedicated utilities and tuning tools for Novaler/SF8008 receivers",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/novaler/enigma2-plugin-extensions-novalertv_2.2_all.ipk",
-          "type": "ipk"
-        }
-      ]
+      "addons": []
     },
     {
       "id": "picons",
       "name": "Picons",
       "icon": "picons.png",
-      "addons": [
-        {
-          "name": "Nilesat 7W Transparent Picons (220x132)",
-          "version": "2026.08",
-          "description": "Crystal transparent logos for all Nilesat channels",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/picons/picons-nilesat-220x132.tar.gz",
-          "type": "tar.gz"
-        },
-        {
-          "name": "Hotbird 13E Dark Glass Picons",
-          "version": "2026.08",
-          "description": "Glossy channel logos for European satellites",
-          "url": "https://raw.githubusercontent.com/MR-HEX/Enigma2-Addons/main/picons/picons-hotbird-220x132.tar.gz",
-          "type": "tar.gz"
-        }
-      ]
+      "addons": []
     }
   ],
-  "telemetry_url": "https://cubic-bias-nickel-nut.trycloudflare.com/api/telemetry"
+  "telemetry_url": "https://attendance-unit-households-bingo.trycloudflare.com/api/telemetry"
 }
