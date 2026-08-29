@@ -20,7 +20,15 @@
       "id": "cam",
       "name": "CAM Softcams & Emulators",
       "icon": "cam.png",
-      "addons": []
+      "addons": [
+        {
+          "name": "Oscam-11905-803",
+          "version": "1.0",
+          "description": "enigma2-plugin-softcams-oscam-emu-levi45_11905-803",
+          "url": "https://github.com/Ahmadarjan1/Enigma2-Addons/releases/download/v11905-803/enigma2-plugin-softcams-oscam-emu-levi45_11905-803_all.deb",
+          "type": "deb"
+        }
+      ]
     },
     {
       "id": "keys",
@@ -137,5 +145,5 @@
       "addons": []
     }
   ],
-  "telemetry_url": "https://attendance-unit-households-bingo.trycloudflare.com/api/telemetry"
+  "telemetry_url": "https://hispanic-tue-guards-muslim.trycloudflare.com/api/telemetry"
 }
