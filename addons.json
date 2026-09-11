@@ -1498,13 +1498,6 @@
           "url": "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/novaler/ultracam.sh -O - | /bin/sh",
           "type": "sh",
           "cmd": "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/novaler/ultracam.sh -O - | /bin/sh"
-        },
-        {
-          "name": "xxxxxxxx",
-          "version": "1.0",
-          "description": "xxxxxxxx",
-          "url": "htpp://sdfgdsfsdf",
-          "type": "ipk"
         }
       ]
     },
@@ -7296,10 +7289,6 @@
     {
       "name": "Ultracam",
       "cmd": "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/novaler/ultracam.sh -O - | /bin/sh"
-    },
-    {
-      "name": "xxxxxxxx",
-      "cmd": "htpp://sdfgdsfsdf"
     }
   ],
   "channels": [
